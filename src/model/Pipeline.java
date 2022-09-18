@@ -1,3 +1,5 @@
+package model;
+
 public class Pipeline {
 
     private String type;
@@ -52,4 +54,5 @@ public class Pipeline {
     public void setColumn(int column) {
         this.column = column;
     }
+
 }
